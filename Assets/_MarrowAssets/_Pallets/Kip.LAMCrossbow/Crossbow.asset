@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34569ddb84e20304981812b1c448d930, type: 3}
+  m_Name: Crossbow
+  m_EditorClassIdentifier: 
+  _barcode:
+    _id: Kip.LAMCrossbow.Spawnable.Crossbow
+    generated: 1
+  _barcodeOld:
+    _id: null.empty.barcode
+    generated: 0
+  _slimCode:
+    _byteArray: 
+  _title: Crossbow
+  _description: 
+  _unlockable: 0
+  _redacted: 0
+  _pallet: {fileID: 11400000, guid: 1fa4af37c8bd5f3499a7dbd362a9db32, type: 2}
+  _tags:
+  - LowEffortMods
+  _mainAsset:
+    _assetGUID: 37243a63149b1b246ae1d35f724fcec9
+    _editorAssetChanged: 0
+  _previewMesh:
+    _assetGUID: 29e019345017f134e9758a3362500ccf
+    _editorAssetChanged: 1
+  _customQuality: 0
+  _previewMeshQuality: 0.5
+  _maxLODLevel: 0
+  _colliderBounds:
+    m_Center: {x: 0.0044045746, y: -0.027507871, z: 0.20808873}
+    m_Extent: {x: 0.34417704, y: 0.08572612, z: 0.35538438}

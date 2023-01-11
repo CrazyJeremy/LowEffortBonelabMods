@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d26284165bbf1b94dbe4934acd6c0f71, type: 3}
+  m_Name: Neo
+  m_EditorClassIdentifier: 
+  _barcode:
+    _id: Kip.LAMNeo.Avatar.Neo
+    generated: 1
+  _barcodeOld:
+    _id: null.empty.barcode
+    generated: 0
+  _slimCode:
+    _byteArray: 
+  _title: Neo
+  _description: Well, it's Neo.
+  _unlockable: 0
+  _redacted: 0
+  _pallet: {fileID: 11400000, guid: 9f1f33d87da0ca34f907b85f3c57e8cd, type: 2}
+  _tags: []
+  _mainAsset:
+    _assetGUID: 9b484f1a2baa9134396ae7c3dd2fb6bf
+    _editorAssetChanged: 0
+  _previewMesh:
+    _assetGUID: b53c13fb647c7bc4eafba2a045e41649
+    _editorAssetChanged: 1
+  _customQuality: 0
+  _previewMeshQuality: 0.5
+  _maxLODLevel: 0
+  _colliderBounds:
+    m_Center: {x: -0.0040561557, y: 0.79792833, z: 0.041255258}
+    m_Extent: {x: 0.64039683, y: 0.69978, z: 0.047371574}

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: LAMNeo_Avatars
+  m_EditorClassIdentifier: 
+  m_GroupName: LAMNeo_Avatars
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f0ed645965ecfa044ba06d6b50d448a2
+  m_SerializeEntries:
+  - m_GUID: 9b484f1a2baa9134396ae7c3dd2fb6bf
+    m_Address: Avatar/Neo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b53c13fb647c7bc4eafba2a045e41649
+    m_Address: PreviewMesh/Neo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 58a7b179b0492bd44ab16ae00e311880
+    m_Address: Avatar/Neo (Minimal)
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8f70c43e86d2a694baee199a2cef8e7a
+    m_Address: PreviewMesh/Neo (Minimal)
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 18d8398f0b999d84c9bf7058ab668830
+    m_Address: Avatar/Neo (No Effects)
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8ee3649f97ba00a4cb8ff9d9f1677768
+    m_Address: PreviewMesh/Neo (No Effects)
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 6e6351ccd8c2dff4dae97ff041a352e8, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: cb089469c7ea70c4bad4577017f6ec4d, type: 2}
+    - {fileID: 11400000, guid: c8911c1042d2e5945b6cb50e9b8c536c, type: 2}
+    - {fileID: 11400000, guid: f44541a234c7a264898082c88b3ac1fa, type: 2}

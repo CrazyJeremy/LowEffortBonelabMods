@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "root": {
+    "ref": "o:1",
+    "type": "t:1"
+  },
+  "objects": {
+    "o:1": {
+      "barcode": "Kip.LAMCrossbow",
+      "title": "LAM_Crossbow",
+      "description": "Functional Crossbow, but low quality",
+      "unlockable": false,
+      "redacted": false,
+      "author": "Kip",
+      "version": "1.0.0",
+      "sdkVersion": "0.3.7-1748",
+      "internal": false,
+      "crates": [
+        {
+          "ref": "o:2",
+          "type": "t:2"
+        },
+        {
+          "ref": "o:3",
+          "type": "t:2"
+        }
+      ],
+      "tags": [],
+      "changelogs": [],
+      "isa": {
+        "type": "t:1"
+      }
+    },
+    "o:2": {
+      "barcode": "Kip.LAMCrossbow.Spawnable.Crossbow",
+      "title": "Crossbow",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "mainAsset": "37243a63149b1b246ae1d35f724fcec9",
+      "tags": [
+        "LowEffortMods"
+      ],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "29e019345017f134e9758a3362500ccf"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.00440457463,
+          "y": -0.0275078714,
+          "z": 0.208088726
+        },
+        "extents": {
+          "x": 0.344177037,
+          "y": 0.08572612,
+          "z": 0.35538438
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    },
+    "o:3": {
+      "barcode": "Kip.LAMCrossbow.Spawnable.MagArrow",
+      "title": "Mag Arrow",
+      "description": "",
+      "unlockable": false,
+      "redacted": true,
+      "mainAsset": "b293b56defcade149a43ed89b884936c",
+      "tags": [
+        "LowEffortMods"
+      ],
+      "packedAssets": [
+        {
+          "title": "PreviewMesh",
+          "guid": "70bdb449a651d274aa3c756d8613143c"
+        }
+      ],
+      "colliderBounds": {
+        "center": {
+          "x": 0.0,
+          "y": -0.0384804234,
+          "z": 0.0322944671
+        },
+        "extents": {
+          "x": 0.04,
+          "y": 0.0434195846,
+          "z": 0.195090309
+        }
+      },
+      "isa": {
+        "type": "t:2"
+      }
+    }
+  },
+  "types": {
+    "t:1": {
+      "type": "t:1",
+      "fullname": "SLZ.Marrow.Warehouse.Pallet, SLZ.Marrow.SDK, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    },
+    "t:2": {
+      "type": "t:2",
+      "fullname": "SLZ.Marrow.Warehouse.SpawnableCrate, SLZ.Marrow.SDK, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    }
+  }
+}
